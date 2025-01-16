@@ -108,14 +108,3 @@ The **Global Shipping App** is a comprehensive solution for a shipping company, 
 - Add tracking functionality for orders.
 - Include country-specific custom duty calculations.
 
----
-
-## Contributors
-
-- [Your Name](https://github.com/your-username)
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
